@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>coolraul.github.io/</loc>
+    <loc>https://coolraul.github.io/</loc>
     <lastmod>2020-08-23T13:21:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>coolraul.github.io/post/</loc>
+    <loc>https://coolraul.github.io/post/</loc>
     <lastmod>2020-08-23T13:21:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>coolraul.github.io/post/second-post/</loc>
+    <loc>https://coolraul.github.io/post/second-post/</loc>
     <lastmod>2020-08-23T13:21:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>coolraul.github.io/post/first-post/</loc>
+    <loc>https://coolraul.github.io/post/first-post/</loc>
     <lastmod>2020-08-23T13:21:25-04:00</lastmod>
   </url>
   
   <url>
-    <loc>coolraul.github.io/categories/</loc>
+    <loc>https://coolraul.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>coolraul.github.io/tags/</loc>
+    <loc>https://coolraul.github.io/tags/</loc>
   </url>
   
 </urlset>
