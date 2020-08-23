@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://coolraul.github.io/about/</link>
+      <pubDate>Sun, 23 Aug 2020 15:04:45 -0400</pubDate>
+      
+      <guid>https://coolraul.github.io/about/</guid>
+      <description>About content</description>
+    </item>
+    
+    <item>
       <title>Second Post</title>
       <link>https://coolraul.github.io/post/second-post/</link>
       <pubDate>Sun, 23 Aug 2020 13:21:29 -0400</pubDate>
