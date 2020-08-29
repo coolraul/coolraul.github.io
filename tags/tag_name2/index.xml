@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clarity</title>
-    <link>https://coolraul.github.io/</link>
-    <description>Recent content on Clarity</description>
+    <title>Tag_name2 on Clarity</title>
+    <link>https://coolraul.github.io/tags/tag_name2/</link>
+    <description>Recent content in Tag_name2 on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Fri, 28 Aug 2020 20:25:15 -0400</lastBuildDate>
     
-	<atom:link href="https://coolraul.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coolraul.github.io/tags/tag_name2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
